@@ -1,0 +1,14 @@
+C:\Users\KTY\Desktop\c#문법\spartaDungeon2\spartaDungeon2\bin\Debug\net6.0\spartaDungeon2.exe
+C:\Users\KTY\Desktop\c#문법\spartaDungeon2\spartaDungeon2\bin\Debug\net6.0\spartaDungeon2.deps.json
+C:\Users\KTY\Desktop\c#문법\spartaDungeon2\spartaDungeon2\bin\Debug\net6.0\spartaDungeon2.runtimeconfig.json
+C:\Users\KTY\Desktop\c#문법\spartaDungeon2\spartaDungeon2\bin\Debug\net6.0\spartaDungeon2.dll
+C:\Users\KTY\Desktop\c#문법\spartaDungeon2\spartaDungeon2\bin\Debug\net6.0\spartaDungeon2.pdb
+C:\Users\KTY\Desktop\c#문법\spartaDungeon2\spartaDungeon2\obj\Debug\net6.0\spartaDungeon2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KTY\Desktop\c#문법\spartaDungeon2\spartaDungeon2\obj\Debug\net6.0\spartaDungeon2.AssemblyInfoInputs.cache
+C:\Users\KTY\Desktop\c#문법\spartaDungeon2\spartaDungeon2\obj\Debug\net6.0\spartaDungeon2.AssemblyInfo.cs
+C:\Users\KTY\Desktop\c#문법\spartaDungeon2\spartaDungeon2\obj\Debug\net6.0\spartaDungeon2.csproj.CoreCompileInputs.cache
+C:\Users\KTY\Desktop\c#문법\spartaDungeon2\spartaDungeon2\obj\Debug\net6.0\spartaDungeon2.dll
+C:\Users\KTY\Desktop\c#문법\spartaDungeon2\spartaDungeon2\obj\Debug\net6.0\refint\spartaDungeon2.dll
+C:\Users\KTY\Desktop\c#문법\spartaDungeon2\spartaDungeon2\obj\Debug\net6.0\spartaDungeon2.pdb
+C:\Users\KTY\Desktop\c#문법\spartaDungeon2\spartaDungeon2\obj\Debug\net6.0\spartaDungeon2.genruntimeconfig.cache
+C:\Users\KTY\Desktop\c#문법\spartaDungeon2\spartaDungeon2\obj\Debug\net6.0\ref\spartaDungeon2.dll
